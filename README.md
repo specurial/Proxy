@@ -6,5 +6,5 @@ Raw mYConfig:
     https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
     
     
-Raw mYConfig:
+Raw OmegaOptions.bak:
     https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
