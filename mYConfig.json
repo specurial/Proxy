@@ -1,0 +1,68 @@
+{
+  "outbounds": [
+    {
+      "type": "wireguard",
+      "tag": "IR1🇮🇷 § 0",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:806f:b8ae:37ce:99c4:bd52/128"
+      ],
+      "private_key": "EMUCY3u//OhiXe0srjurbsJo1oBxT4+buxyHW+xvXmw=",
+      "server": "188.114.96.223",
+      "server_port": 939,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1280,
+      "fake_packets": "5-10",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Main1 § 1",
+      "detour": "IR1🇮🇷 § 0",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:873e:8a32:4175:c1c2:1d0b/128"
+      ],
+      "private_key": "UGYQUNb0kolE2LeTywrJIwlOhsMYb5PQGLR6WgdDWms=",
+      "server": "188.114.96.223",
+      "server_port": 939,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1120
+    },
+    {
+      "type": "wireguard",
+      "tag": "IR2🇮🇷 § 2",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:80a0:b9ac:9cd5:acc3:dcda/128"
+      ],
+      "private_key": "sKcRnwrBRqM1wazu7ZDrPKYo2V+WdNBYf8BonQaeRl0=",
+      "server": "162.159.195.219",
+      "server_port": 4198,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1280,
+      "fake_packets": "5-10",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Main2 § 3",
+      "detour": "IR2🇮🇷 § 2",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8a10:9bdd:6b76:46ba:65ed/128"
+      ],
+      "private_key": "KITKLgnlL/dA7VSwPwlr09BIIW7/F6vh8tmwCib9gW8=",
+      "server": "162.159.195.219",
+      "server_port": 4198,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1120
+    }
+  ]
+}
