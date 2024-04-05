@@ -3,7 +3,7 @@ Edit mYConfig:
 
     
 Raw mYConfig:
-    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
+    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.jsonq
     
     
 Raw OmegaOptions.bak:
