@@ -3,7 +3,7 @@ Edit mYConfig:
 
     
 Raw mYConfig:
-    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.jsonq
+    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
     
     
 Edit mYConfig2:
