@@ -12,7 +12,9 @@ Edit mYConfig2:
     
 Raw mYConfig2:
    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig2.json
-    
+
+Edit OmegaOptions.bak:
+    https://github.com/specurial/Proxy/edit/main/OmegaOptions.bak
     
 Raw OmegaOptions.bak:
     https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
