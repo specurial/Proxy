@@ -24,17 +24,6 @@
   {
     "port": "",
     "outboundTag": "direct",
-    "ip": [],
-    "domain": [
-      "geosite:cn",
-      "geosite:ir",
-      "geosite:category-ir",
-      "geosite:private"
-    ]
-  },
-  {
-    "port": "",
-    "outboundTag": "direct",
     "ip": [
       "geoip:private",
       "geoip:cn",
