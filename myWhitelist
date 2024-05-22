@@ -1,0 +1,72 @@
+[
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "domain:example-example.com",
+      "domain:example-example2.com",
+      "domain:ir",
+      "ext:iran.dat:all",
+      "ext:iran.dat:ir",
+      "ext:iran.dat:other"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "block",
+    "ip": [],
+    "domain": [
+      "geosite:category-ads-all",
+      "ext:iran.dat:ads"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "geosite:cn",
+      "geosite:ir",
+      "geosite:category-ir",
+      "geosite:private"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:private",
+      "geoip:cn",
+      "geoip:ir"
+    ],
+    "domain": []
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [],
+	"process": [
+      "dota2*.exe",
+      "wow*.exe",
+      "exitlag*.exe",
+      "PingPlotter*.exe",
+      "PingPlotter ICMP Generator.exe",
+      "Hiddify.exe"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [],
+    "process": [
+      "Diablo IV.exe"
+    ]
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "proxy"
+  }
+]
