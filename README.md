@@ -18,3 +18,9 @@ Edit OmegaOptions.bak:
     
 Raw OmegaOptions.bak:
     https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
+
+Edit OmegaOptions.bak:
+    https://github.com/specurial/Proxy/edit/main/myWhitelist
+    
+Raw OmegaOptions.bak:
+    https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
