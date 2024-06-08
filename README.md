@@ -1,3 +1,11 @@
+Edit lanProxy:
+    https://github.com/specurial/Proxy/edit/main/lanProxy.json
+
+    
+Raw lanProxy:
+    https://raw.githubusercontent.com/specurial/Proxy/main/lanProxy.json
+    
+    
 Edit mYConfig:
     https://github.com/specurial/Proxy/edit/main/mYConfig.json
 
