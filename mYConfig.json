@@ -165,7 +165,7 @@
       "tag": "IR6🇮🇷-(IPV6) § 6",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8ccc:ea52:e81a:a6ff:8461/128"
+        "2606:4700:110:85f1:c696:1a:6f1b:9d33/128"
       ],
       "private_key": "iCF3BO7/+f2h+1BJtoUmxz3yi+KAH57Ts4jvODDfoHc=",
       "server": "2606:4700:d0::cc2d:3eab:d6f8:0685",
@@ -183,7 +183,7 @@
       "detour": "IR6🇮🇷-(IPV6) § 6",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:89bb:f514:4835:7fc3:ba5a/128"
+        "2606:4700:110:8cf4:dbf4:5938:fa05:6534/128"
       ],
       "private_key": "cOcu9aNJWAFzMyA/G29m5pS8eD+lZOVQO+PbvDxV2FU=",
       "server": "188.114.96.97",
