@@ -132,7 +132,7 @@
       "type": "wireguard",
       "tag": "IR5🇮🇷-(IPV6) § 5",
       "local_address": [
-        "172.16.0.2/32",
+        "172.16.0.2/24",
         "2606:4700:110:8d68:c390:163c:7b06:8f5/128"
       ],
       "private_key": "YDpmWI/dp1hVjrr6y6EXp4GAEHIzPO9vk6WininlyUQ=",
@@ -150,7 +150,7 @@
       "tag": "Main5-(IPV6) § 6",
       "detour": "IR5🇮🇷-(IPV6) § 5",
       "local_address": [
-        "172.16.0.2/32",
+        "172.16.0.2/24",
         "2606:4700:110:8933:3053:5e9c:2f97:8c40/128"
       ],
       "private_key": "GC+s8zdrUxtFj+VMjXo62GcEkhpzDT9asqCStOl8+l0=",
