@@ -130,7 +130,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "IR5🇮🇷 - (IPV6) § 5",
+      "tag": "IR5🇮🇷(IPV6) § 5",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8ccc:ea52:e81a:a6ff:8461/128"
@@ -147,7 +147,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "Main5 - (IPV6) § 6",
+      "tag": "Main5(IPV6) § 6",
       "detour": "IR5(IPV6)🇮🇷 § 5",
       "local_address": [
         "172.16.0.2/24",
@@ -162,7 +162,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "IR6🇮🇷 - (IPV6) § 6",
+      "tag": "IR6🇮🇷(IPV6) § 6",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8ccc:ea52:e81a:a6ff:8461/128"
@@ -179,7 +179,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "Main6 - (IPV6) § 7",
+      "tag": "Main6(IPV6) § 7",
       "detour": "IR6(IPV6)🇮🇷 § 6",
       "local_address": [
         "172.16.0.2/32",
