@@ -130,39 +130,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "IR5🇮🇷(IPV6) § 5",
-      "local_address": [
-        "172.16.0.2/24",
-        "2606:4700:110:8ccc:ea52:e81a:a6ff:8461/128"
-      ],
-      "private_key": "QLDFSLlRfzvuiKiikhrQRYv9IV6M9hWE+FVgoNMu60g=",
-      "server": "2606:4700:d0::cc2d:3eab:d6f8:0685",
-      "server_port": 987,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
-      "mtu": 1280,
-      "fake_packets": "5-10",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "20-250"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Main5(IPV6) § 6",
-      "detour": "IR5(IPV6)🇮🇷 § 5",
-      "local_address": [
-        "172.16.0.2/24",
-        "2606:4700:110:89bb:f514:4835:7fc3:ba5a/128"
-      ],
-      "private_key": "WAl0MZj7KqaiFvtdMJaQlXQquTCsHduWqOwHn2VMoVE=",
-      "server": "188.114.96.97",
-      "server_port": 5956,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
-      "mtu": 1120
-    },
-    {
-      "type": "wireguard",
-      "tag": "IR6🇮🇷(IPV6) § 6",
+      "tag": "IR5🇮🇷 - (IPV6) § 5",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8ccc:ea52:e81a:a6ff:8461/128"
@@ -179,8 +147,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Main6(IPV6) § 7",
-      "detour": "IR6(IPV6)🇮🇷 § 6",
+      "tag": "Main5 - (IPV6) § 6",
+      "detour": "IR5(IPV6)🇮🇷 § 5",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:89bb:f514:4835:7fc3:ba5a/128"
