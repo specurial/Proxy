@@ -1,46 +1,45 @@
-**[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)** is template for Warp config
+**[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)** template
+<br />
+
+**[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)** template
+> [!Tip]
 > replace keys with your own warp keys
 > 
-> guide : [Elfiinaa Warp on Warp Guide!](https://github.com/Elfiinaa/ConfigFiles/blob/main/WarpOnWarp.md)
+> Guide : [Elfiinaa Guide!](https://github.com/Elfiinaa/ConfigFiles/blob/main/WarpOnWarp.md)
 
-**[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)** is template for WarpOnWarp config   
+
+> [!WARNING]
 > warp-on-warp chain two warp together but maybe slower
 
 
-**Caution:**
+> [!CAUTION]
+> 
 > warp is not hiding your country ip
 >
 > use it only for normal day-to-day low-risk activity
+<br />
 
+**[LanProxy](https://github.com/specurial/Proxy/edit/main/lanProxy.json)**  
 
-**[lanProxy](https://github.com/specurial/Proxy/edit/main/lanProxy.json)**
+    https://raw.githubusercontent.com/specurial/Proxy/main/lanProxy.json  
+<br />
 
-    https://raw.githubusercontent.com/specurial/Proxy/main/lanProxy.json
-    
-    
-Edit mYConfig:
-    https://github.com/specurial/Proxy/edit/main/mYConfig.json
+**[mYConfig](https://github.com/specurial/Proxy/edit/main/mYConfig.json)**  
 
-    
-Raw mYConfig:
-    https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
-    
-    
-Edit mYConfig2:
-    https://github.com/specurial/Proxy/edit/main/mYConfig2.json
+     https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
+<br />
 
-    
-Raw mYConfig2:
-   https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig2.json
+**[mYConfig2](https://github.com/specurial/Proxy/edit/main/mYConfig2.json)**  
 
-Edit OmegaOptions.bak:
-    https://github.com/specurial/Proxy/edit/main/OmegaOptions.bak
-    
-Raw OmegaOptions.bak:
-    https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
+     https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig2.json
+<br />
+   
+**[OmegaOptions.bak](https://github.com/specurial/Proxy/edit/main/OmegaOptions.bak)**  
 
-Edit myWhitelist:
-    https://github.com/specurial/Proxy/edit/main/myWhitelist
-    
-Raw myWhitelist:
-    https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
+     https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
+<br />
+
+**[myWhitelist](https://github.com/specurial/Proxy/edit/main/myWhitelist)**  
+
+     https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
+
