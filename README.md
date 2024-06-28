@@ -1,7 +1,7 @@
-**[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)** template
-<br />
+# ProxyStuff :ghost:
 
-**[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)** template
+## **[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)**  << template
+## **[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)** << template
 > [!Tip]
 > replace keys with your own warp keys
 > 
@@ -19,27 +19,27 @@
 > use it only for normal day-to-day low-risk activity
 <br />
 
-**[LanProxy](https://github.com/specurial/Proxy/edit/main/lanProxy.json)**  
+## **[LanProxy](https://github.com/specurial/Proxy/edit/main/lanProxy.json)**  
 
     https://raw.githubusercontent.com/specurial/Proxy/main/lanProxy.json  
 <br />
 
-**[mYConfig](https://github.com/specurial/Proxy/edit/main/mYConfig.json)**  
+## **[mYConfig](https://github.com/specurial/Proxy/edit/main/mYConfig.json)**  
 
      https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig.json
 <br />
 
-**[mYConfig2](https://github.com/specurial/Proxy/edit/main/mYConfig2.json)**  
+## **[mYConfig2](https://github.com/specurial/Proxy/edit/main/mYConfig2.json)**  
 
      https://raw.githubusercontent.com/specurial/Proxy/main/mYConfig2.json
 <br />
    
-**[OmegaOptions.bak](https://github.com/specurial/Proxy/edit/main/OmegaOptions.bak)**  
+## **[OmegaOptions.bak](https://github.com/specurial/Proxy/edit/main/OmegaOptions.bak)**  
 
      https://raw.githubusercontent.com/specurial/Proxy/main/OmegaOptions.bak
 <br />
 
-**[myWhitelist](https://github.com/specurial/Proxy/edit/main/myWhitelist)**  
+## **[myWhitelist](https://github.com/specurial/Proxy/edit/main/myWhitelist)**  
 
      https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
 
