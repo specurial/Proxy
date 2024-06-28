@@ -1,7 +1,7 @@
 # ProxyStuff :ghost:
 
-## **[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)**  << template
-## **[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)** << template
+## **[Warp.json](https://raw.githubusercontent.com/specurial/Proxy/main/Warp.json)**
+## **[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)**
 > [!Tip]
 > replace keys with your own warp keys
 > 
