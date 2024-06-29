@@ -41,5 +41,5 @@
 
 ## **[myWhitelist](https://github.com/specurial/Proxy/edit/main/myWhitelist)**  
 
-     https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
+ https://raw.githubusercontent.com/specurial/Proxy/main/myWhitelist
 
