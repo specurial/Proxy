@@ -21,13 +21,8 @@
   {
     "port": "",
     "outboundTag": "direct",
-    "ip": [
-      "geoip:ir",
-      "geosite:category-ir"
-    ],
+    "ip": [],
     "domain": [
-      "domain:example-example.com",
-      "domain:example-example2.com",
       "domain:ir",
       "ext:iran.dat:all",
       "ext:iran.dat:ir",
