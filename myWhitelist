@@ -1,16 +1,13 @@
 [
   {
     "port": "",
-    "outboundTag": "direct",
-    "ip": [],
-    "domain": [
-      "domain:example-example.com",
-      "domain:example-example2.com",
-      "domain:ir",
-      "ext:iran.dat:all",
-      "ext:iran.dat:ir",
-      "ext:iran.dat:other"
-    ]
+    "outboundTag": "block",
+    "ip": [
+      "10.10.34.34",
+      "10.10.34.35",
+      "10.10.34.36"
+    ],
+    "domain": []
   },
   {
     "port": "",
@@ -19,6 +16,23 @@
     "domain": [
       "geosite:category-ads-all",
       "ext:iran.dat:ads"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:ir",
+      "geosite:category-ir"
+    ],
+    "domain": [
+      "domain:example-example.com",
+      "domain:example-example2.com",
+      "domain:ir",
+      "ext:iran.dat:all",
+      "ext:iran.dat:ir",
+      "ext:iran.dat:other",
+      "geosite:category-ir"
     ]
   },
   {
@@ -35,24 +49,13 @@
     "port": "",
     "outboundTag": "direct",
     "ip": [],
-    "domain": [],
-	"process": [
-      "dota2*.exe",
-      "wow*.exe",
-      "exitlag*.exe",
-      "PingPlotter*.exe",
-      "PingPlotter ICMP Generator.exe",
-      "Hiddify.exe"
-    ]
+    "domain": []
   },
   {
     "port": "",
     "outboundTag": "proxy",
     "ip": [],
-    "domain": [],
-    "process": [
-      "Diablo IV.exe"
-    ]
+    "domain": []
   },
   {
     "port": "0-65535",
