@@ -4,7 +4,7 @@
       "type": "wireguard",
       "tag": "IR1🇮🇷 § 0",
       "local_address": [
-        "10.66.66.0/24",
+        "172.16.0.2/24",
         "2606:4700:110:86f7:9b4b:5ceb:eb1c:f3fd/128"
       ],
       "private_key": "EMUCY3u//OhiXe0srjurbsJo1oBxT4+buxyHW+xvXmw=",
@@ -22,7 +22,7 @@
       "tag": "Main1 § 1",
       "detour": "IR1🇮🇷 § 0",
       "local_address": [
-        "10.66.66.0/24",
+        "172.16.0.2/24",
         "2606:4700:110:8951:7fa5:d3f8:e1ec:e0da/128"
       ],
       "private_key": "UGYQUNb0kolE2LeTywrJIwlOhsMYb5PQGLR6WgdDWms=",
