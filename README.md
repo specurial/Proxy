@@ -4,7 +4,12 @@
 ## **[WarpOnWarp.json](https://raw.githubusercontent.com/specurial/Proxy/main/WarpOnWarp.json)**
 > [!Tip]
 > replace keys with your own warp keys
-> 
+> [!Tip]
+10.66.66.0/24
+10.0.0.0/8
+172.16.0.0/12
+172.16.0.2/24
+> <br />
 > Guide : [Elfiinaa Guide!](https://github.com/Elfiinaa/ConfigFiles/blob/main/WarpOnWarp.md)
 
 
