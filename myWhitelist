@@ -3,13 +3,7 @@
     "port": "",
     "outboundTag": "direct",
     "ip": [],
-    "domain": [
-      "domain:ir",
-      "ext:iran.dat:all",
-      "ext:iran.dat:ir",
-      "ext:iran.dat:other",
-      "geosite:category-ir"
-    ]
+    "domain": []
   },
   {
     "port": "",
@@ -33,17 +27,23 @@
   {
     "port": "",
     "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "domain:ir",
+      "ext:iran.dat:all",
+      "ext:iran.dat:ir",
+      "ext:iran.dat:other",
+      "geosite:category-ir"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
     "ip": [
       "geoip:private",
       "geoip:cn",
       "geoip:ir"
     ],
-    "domain": []
-  },
-  {
-    "port": "",
-    "outboundTag": "direct",
-    "ip": [],
     "domain": []
   },
   {
